@@ -1,0 +1,15 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.knapp{
+  position: fixed;
+  top: 100px;
+  left: 200px;
+}
+
+h2 {
+  color: white;
+  font-size: 20px;
+}
