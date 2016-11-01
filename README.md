@@ -15,7 +15,8 @@ Workshop i kreativ programmering på BEKKs Hackathon-fagdag 4.11.16.
 Her finner du alt som er mulig å gjøre med p5.js. Bruk denne siden hyppig.
 http://p5js.org/reference/
 
-Du kan også finne enkle tutorials her på http://p5js.org/tutorials/
+Du kan også finne enkle tutorials her.
+http://p5js.org/tutorials/
 
 ###For å dele ditt verk med andre###
 
