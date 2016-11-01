@@ -11,10 +11,6 @@ app.get('/', function(req, res) {
     res.render('index');
 });
 
-app.get('/particle', function(req, res) {
-    res.render('particle');
-});
-
 app.listen(port, function() {
-    console.log('Kreativ programmering is running on http://localhost:' + port);
+    console.log('Kreativ programmering kjører på http://localhost:' + port);
 });
