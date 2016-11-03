@@ -23,4 +23,4 @@ http://p5js.org/tutorials/
 
 ## For å dele ditt verk med andre
 
-Gå til [BEKK Creative](https://mollerse.github.io/bekkcreative/app/). Kopier over koden fra `sketch.js`-fila og submit.
+Gå til [BEKK Creative](https://mollerse.github.io/bekkcreative/app/submit.html). Kopier over koden fra `sketch.js`-fila og submit.
