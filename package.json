@@ -4,8 +4,7 @@
   "description": "Lek og moro for unga!",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "ecstatic app --port 5000"
   },
   "keywords": [
     "lek",
@@ -16,8 +15,7 @@
   ],
   "author": "Stian Surén",
   "license": "MIT",
-  "dependencies": {
-    "ejs": "^2.5.2",
-    "express": "^4.14.0"
+  "devDependencies": {
+    "ecstatic": "^2.1.0"
   }
 }
